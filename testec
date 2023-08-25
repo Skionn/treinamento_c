@@ -1,0 +1,8 @@
+#include <stdio.h>
+int idade, telefone;
+char nome;
+printf("Digite seu nome:\n");
+scanf("%c", nome);
+printf("Digite sua idade: \n");
+scanf("%d", &idade");
+printf("Digite o seu número de telefone: \n");
